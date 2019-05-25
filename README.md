@@ -24,3 +24,10 @@ Use the sox tool to convert your audio file as PCM file
 ```
 sox audiofile.mp3 --norm=1 -e unsigned-integer -b 8 -r 62500 -c 1 -t raw 1.PCM
 ```
+## Pictures
+### Front
+![](https://github.com/rediculum/FairyTalePhone/raw/master/FairyTalePhone1.jpg)
+### Back
+![](https://github.com/rediculum/FairyTalePhone/raw/master/FairyTalePhone2.jpg)
+### Inside
+![](https://github.com/rediculum/FairyTalePhone/raw/master/FairyTalePhone3.jpg)
