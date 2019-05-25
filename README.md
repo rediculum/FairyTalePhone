@@ -31,3 +31,5 @@ sox audiofile.mp3 --norm=1 -e unsigned-integer -b 8 -r 62500 -c 1 -t raw 1.PCM
 ![](https://github.com/rediculum/FairyTalePhone/raw/master/FairyTalePhone2.jpg)
 ### Inside
 ![](https://github.com/rediculum/FairyTalePhone/raw/master/FairyTalePhone3.jpg)
+### Production use
+![](https://github.com/rediculum/FairyTalePhone/raw/master/FairyTalePhoneProd.jpg)
